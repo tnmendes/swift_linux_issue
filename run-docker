@@ -1,0 +1,1 @@
+docker build -t swift-console . && docker run -it swift-console
